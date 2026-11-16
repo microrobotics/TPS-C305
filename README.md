@@ -1,0 +1,2 @@
+# TPS-C305
+WANPTEK TPS-C305 Bench Power Supply - 30V 5A 150W
